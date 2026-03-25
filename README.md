@@ -102,28 +102,8 @@ python app.py
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork this repo and improve the project.
-
----
-
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
----
 
 ## 👨‍💻 Author
 
 **Ayush Shukla 25BAI11515**
-
-
----
-
-## 💡 Inspiration
-
-This project was built as a beginner-friendly **Python GUI + AI concept project** to demonstrate how recommendation systems work.
-
 
